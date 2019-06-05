@@ -12,6 +12,7 @@ public class TestController {
     @ResponseBody
     public String name()
     {
+        System.out.println("wahhhhh");
         return "hhhh,now i had modify in idea,committing!!!!!!!";
     }
 }
