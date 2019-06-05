@@ -12,6 +12,6 @@ public class TestController {
     @ResponseBody
     public String name()
     {
-        return "hhhh";
+        return "hhhh,now i had modify in idea,committing!!!";
     }
 }
